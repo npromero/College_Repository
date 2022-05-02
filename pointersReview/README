@@ -1,0 +1,3 @@
+Project goal was to make the function malloc from the C library that dynamically allocates memory
+in the uninitialized storage. Malloc returns the pointer to the data location if successful. The 
+purpose of the program was to practice using pointers by creating a malloc function.
