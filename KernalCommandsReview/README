@@ -1,0 +1,5 @@
+Program's purpose was to demonstrate the ability to use the kernel commands exec & fork. exec's purpose is to change the
+currently running process with another to run in the same space. Fork adds a duplicate process to the active running space.
+The program duplicates itself with a fork command & creates a number of processes to run the password cracker given 
+by the instructor. simplecrack.c is the main program & execer.c is a simple version for testing that execs a specific code.
+Pwfind was given by the instructor. The rest of the files were made by me.
