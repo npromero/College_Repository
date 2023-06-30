@@ -1,0 +1,7 @@
+1) open the solution if visual studios
+
+2) change the connection string in the appsettings.json with the new 
+connection string on the database object. You may need to remake a connection
+to a database object that is in the _Database folder(the mdf file)
+
+3) Run the application with visual studios.

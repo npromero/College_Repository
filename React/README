@@ -1,0 +1,6 @@
+This file was a group project in the .net boot camp with teksystems.
+The team members where Niklas Romero, Cameron Glover, Ryan Holm, & Nayef Taleb.
+
+I made the login page, the dashboard page, the employees menu, the form builder, data store,
+the framework for the slices, and the api file for relative pathing. The application uses 
+axios to make requests to an api and react for the functionality.

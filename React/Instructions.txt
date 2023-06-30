@@ -1,0 +1,6 @@
+1) Open folder in vs code and open an integrated terminal on the adventure works folder.
+
+2) Run an npm install then run an npm start.
+
+3) To login the username is rob0 and the password is 112457891
+
